@@ -7,5 +7,8 @@
 * 다양한 정보와 내용은 [블로그](https://blog.naver.com/dlrmawnl)에 꾸준히 기록 할 예정!
 <br />
 
-### 일자별 기록
+___
+
+### web
+* [웹 개발이란?](https://github.com/dmswnlee/TIL/blob/055c6f5c0970ffc8d76b08616ecff87fbbd17041/2023_01/01.md)
 
