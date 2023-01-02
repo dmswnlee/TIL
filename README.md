@@ -15,5 +15,16 @@ ___
 <br />
 
 ### HTML
+1. [HTML 기초](https://github.com/dmswnlee/TIL/blob/6d99dd0382cb99ef062a2df55cb65a28fd31d799/2023_01/02.md)
+* HTML 이란?
+* TAG?
+  * 제목과 문단
+  * 강조
+  * 링크
+  * 이미지
+  * 목록
+  * 정의목록
+  * 인용
 
-
+<br>
+2. 시맨틱 마크업
