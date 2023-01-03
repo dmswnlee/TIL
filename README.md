@@ -10,5 +10,14 @@
 ___
 
 ### web
-* [웹 개발이란?](https://github.com/dmswnlee/TIL/blob/055c6f5c0970ffc8d76b08616ecff87fbbd17041/2023_01/01.md)
+* [23.01.01](https://github.com/dmswnlee/TIL/blob/055c6f5c0970ffc8d76b08616ecff87fbbd17041/2023_01/01.md)
+
+<br />
+
+### HTML
+* [23.01.02](https://github.com/dmswnlee/TIL/blob/85641c0d092bac56c46a908e1941792903d8f22b/2023_01/02.md)
+
+
+
+
 
