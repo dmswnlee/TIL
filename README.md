@@ -10,51 +10,14 @@
 ___
 
 ### web
-* [웹 개발이란?](https://github.com/dmswnlee/TIL/blob/055c6f5c0970ffc8d76b08616ecff87fbbd17041/2023_01/01.md)
+* [23.01.01](https://github.com/dmswnlee/TIL/blob/055c6f5c0970ffc8d76b08616ecff87fbbd17041/2023_01/01.md)
 
 <br />
 
 ### HTML
-1. [HTML 기초](https://github.com/dmswnlee/TIL/blob/6d99dd0382cb99ef062a2df55cb65a28fd31d799/2023_01/02.md)
-* HTML 이란?
-* TAG?
-  * 제목과 문단
-  * 강조
-  * 링크
-  * 이미지
-  * 목록
-  * 정의목록
-  * 인용
-  
-<br />
+* [23.01.02](https://github.com/dmswnlee/TIL/blob/6d99dd0382cb99ef062a2df55cb65a28fd31d799/2023_01/02.md)
 
-2. 시맨틱 마크업
-* Semantic Markup?
-* 시맨틱요소
-* div & span
-* 기타 Etc
-* 엔티티 Entity
 
-<br />
-
-3. Table & Form
-* 표 table
-* 폼 Form
-  * 기본구조
-  * input
-  * label
-  * name
-  * Radio
-  * Checkbox
-  * Select & Option
-  * Textarea
-  * Button
-
-___
-
-### 1일1로그 100일 완성 IT지식
-* [DAY 001](https://github.com/dmswnlee/TIL/blob/0fcd6c9846aa1995a29f4780f4672c471c9ffc32/2023_01/01.md)
-* [DAY 002](https://github.com/dmswnlee/TIL/blob/0fcd6c9846aa1995a29f4780f4672c471c9ffc32/2023_01/02.md)
 
 
 
