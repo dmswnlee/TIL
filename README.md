@@ -15,7 +15,7 @@ ___
 <br />
 
 ### HTML
-* [23.01.02](https://github.com/dmswnlee/TIL/blob/6d99dd0382cb99ef062a2df55cb65a28fd31d799/2023_01/02.md)
+* [23.01.02](https://github.com/dmswnlee/TIL/blob/85641c0d092bac56c46a908e1941792903d8f22b/2023_01/02.md)
 
 
 
