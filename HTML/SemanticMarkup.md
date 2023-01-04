@@ -10,37 +10,7 @@
 
 <br>
 
-### **시맨틱요소**
-
-<br>
-
-```html
-<header>
-    머리말
-    <nav><a href="주소">링크</a></nav>
-</header>
-<main>주요 내용</main>
-<section>독립적인 부분</section>
-<article>독립적인 구성</article>
-<aside>분리된 내용</aside>
-<footer>꼬리말</footer>
-<figure>독립적인 내용</figure>
-<time>시간</time>
-```
-
-<br>
-
-* `main` : 문서, 페이지의 주요내용, 여러 페이지에서 반복되는 내용은 전부 제외하는게 원칙(navigation link, sidebars, site logo …)
-* `nav` : 페이지에서 내비게이션 링크를 제공하는 것들 , a 태그를 같이 사용
-* `section` : 문서내에 독립적인 부분을 나타낼 때 사용, 제목요소를 포함하고 있는 경우가 많음
-* `article` : 문서내에 완전히 독립적인 부분을 나타낼 때 사용, 하나 이상 사용가능(예를들어 신문기사, 날씨위젯 등)
-* `aside` : 페이지내의 다른 내용들과 연관되어 있지만 독립적으로 분리될 수 있는 것
-* `figure` : 문서내의 흐름과는 독립적인 부분을 나타낼 떄 사용
-* 의미없는 `div` 태그를 남발하지 말고 의미있는 마크업을 하자! 
-
-<br>
-
-### **div & span**
+### div & span
 
 <br>
 
@@ -50,6 +20,74 @@
 * `div` : 블록레벨요소, 요소들을 그룹화 할때 사용
 * `span` : 인라인요소, 텍스트 감싸서 스타일링 할때 사용
 * 의미없는 태그이므로 너무 남발하여 사용하지 않는것이 좋음!
+
+<br>
+
+
+### Sectioning Elenments 요소들
+* section
+* article 
+* nav
+* aside
+
+<br>
+
+### 문서의 구조를 표현하는데 도움이 되는 3가지 요소 
+* header
+* main
+* footer
+
+<br>
+
+### **올바른 Sectioning Elenments 사용방법**
+공통적으로 지켜야 할 룰
+* Sectioning Elenments = 단원
+* 단원의 주제, 제목이 반드시 필요
+* Sectioning Elenments 내에는 반드시 **heading** 태그를 작성해야 함
+
+<br>
+
+### Header
+* div와 비슷한 기능
+* Sectioning Elenments가 아니기 때문에 heading 태그 생략가능
+
+<br>
+
+### Nav
+* 문서간으로 이동하는 메뉴가 있으면 유용하게 사용하는 태그
+* 반드시 heading 태그를 사용해서 제목을 명시해줘야 함
+
+<br>
+
+### Main
+* 한개의 html 안에서는 한개의 main 밖에 쓰지 못함
+* 본문의 구조상 제일 핵심적인 내용을 묶어줄 때 사용
+* section, article, nav, aside 안에 사용할 수 없음 감싸주는건 가능
+* Sectioning Elenments가 아니기 때문에 heading 태그 생략가능
+
+<br>
+
+### Section
+* 독립된 부분을 나타낼 때 사용
+* 반드시 heading 태그를 사용해서 제목을 명시해줘야 함
+
+<br>
+
+### Article
+* 뉴스기사, 블로그, 트윗 같이 안에 있는 정보 컨텐츠가 완결성이 있으며 혼자 독립적으로 존재하는 것을 나타낼 떄 사용 
+* 반드시 heading 태그를 사용해서 제목을 명시해줘야 함
+
+<br>
+
+### Aside 
+* 위젯, 광고등 사이드바에서 본문과는 직접적인 연관이 없는 동떨어진 내용을 나타낼 떄 사용 
+* 반드시 heading 태그를 사용해서 제목을 명시해줘야 함
+
+<br>
+
+### Footer
+* 꼬리말, 페이지의 정보등의 내용을 나타낼 때 사용 
+* Sectioning Elenments가 아니기 때문에 heading 태그 생략가능
 
 <br>
 
