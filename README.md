@@ -19,7 +19,7 @@ ___
 * [태그 tag](https://github.com/dmswnlee/TIL/blob/51de4bc5277a9c18ac79500d836126f88f3e5dc0/HTML/Tag.md)
 * [폼 form](https://github.com/dmswnlee/TIL/blob/51de4bc5277a9c18ac79500d836126f88f3e5dc0/HTML/Form.md)
 * [테이블 table](https://github.com/dmswnlee/TIL/blob/51de4bc5277a9c18ac79500d836126f88f3e5dc0/HTML/Table.md)
-* [시맨틱마크업](https://github.com/dmswnlee/TIL/blob/51de4bc5277a9c18ac79500d836126f88f3e5dc0/HTML/SemanticMarkup.md)
+* [시맨틱마크업](https://github.com/dmswnlee/TIL/blob/94c96e6a170116144bc7c5e6eb530da994142fdb/HTML/SemanticMarkup.md)
 
 
 
