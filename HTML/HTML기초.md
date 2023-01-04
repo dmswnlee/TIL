@@ -1,8 +1,10 @@
 # HTML 기초
 
 📌 [MDN](https://developer.mozilla.org/en-US/)
-<br>
+
 📌 [tag](http://www.tcpschool.com/html-tags/intro)
+
+📌 [김버그의html은재밌다](https://edu.goorm.io/lecture/20583/%25EA%25B9%2580%25EB%25B2%2584%25EA%25B7%25B8%25EC%259D%2598-html-css%25EB%258A%2594-%25EC%259E%25AC%25EB%25B0%258C%25EB%258B%25A4)
 
 <br>
 
