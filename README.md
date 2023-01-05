@@ -30,6 +30,7 @@ ___
 * [Position](https://github.com/dmswnlee/TIL/blob/608fa008f59ae3c539a78091eec1b357a92367df/CSS/Position.md)
 * [Flex box](https://github.com/dmswnlee/TIL/blob/f42cd8ab52c38c9f7069c747934e23b9287f4d5a/CSS/FlexBox.md)
 * [Media query](https://github.com/dmswnlee/TIL/blob/cbdc412eeca37d187e30dd6ffab08797af7052d4/CSS/MediaQuery.md)
+* [Typography](https://github.com/dmswnlee/TIL/blob/d1dece81255be1852d40eb8112d6b4f4c7703fe8/CSS/Typography.md)
 
 
 
