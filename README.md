@@ -2,10 +2,14 @@
 
 ### 🔥Today I Learned🔥
 * 오늘 공부한 내용을 정리하여 기록하기
-* 매일 꾸준히 공부하고 기록해서 단단해지기 
-* 게을러지지 않기, 꾸준해지기
-* 다양한 정보와 내용은 [블로그](https://blog.naver.com/dlrmawnl)에 꾸준히 기록 할 예정!
+* 매일 꾸준히 공부하고 기록해서 단단해지기
+* 기록의 힘! 
+* 더 자세하고 다양한 내용은 [블로그](https://jaydl.tistory.com/)에 기록하고 있습니다! 
 <br />
+
+### record
+* `2022-12-31` TIL 기록시작!
+* `2022-01-08` 기존 [네이버블로그](https://blog.naver.com/dlrmawnl) 에서 [티스토리블로그](https://jaydl.tistory.com/)로 이사!
 
 ___
 
