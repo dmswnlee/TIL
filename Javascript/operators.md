@@ -45,7 +45,7 @@ x = x + y 산술연산자를 축약한 버전
 
 <br>
 
-### 대소 관계 비교 연산자 (Relational operators)
+### 대소 관계 비교 연산자(Relational operators)
 * $>$
 * $<$
 * $>=$
@@ -53,8 +53,21 @@ x = x + y 산술연산자를 축약한 버전
 
 <br>
 
-### 동등 비교 관계 연산자 (Equality operators)
+### 동등 비교 관계 연산자(Equality operators)
 * == 값이 같음
 * === 값과 타입이 같음
 * !=
 * !==
+
+<br>
+
+### 삼항 조건 연산자(ternary operator)
+* 조건식 ? 조건식이 참인경우 : 조건식이 거짓인경우
+* 조건문인 if문을 간단히 쓸때 유용하게 사용
+
+<br>
+
+### 논리 연산자
+* || 또는(or)
+* && 그리고(and)
+* ! 부정(not)
