@@ -48,3 +48,4 @@ ___
 * [변수(variable)](https://github.com/dmswnlee/TIL/blob/f3c19b601b09d8277fc0ca9705a0029f60734294/Javascript/variable.md)
 * [연산자(operators)](https://github.com/dmswnlee/TIL/blob/494dc91dd6929365f2431ef6f267efb44f43c470/Javascript/operators.md)
 * [제어문(control flow statement)](https://github.com/dmswnlee/TIL/blob/494dc91dd6929365f2431ef6f267efb44f43c470/Javascript/control.md)
+* [함수(function)](https://github.com/dmswnlee/TIL/blob/b11c66d9047df62841d55a473da696ab6d45d87e/Javascript/function.md)
