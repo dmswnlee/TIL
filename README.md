@@ -51,3 +51,4 @@ ___
 * [함수(function)](https://github.com/dmswnlee/TIL/blob/b11c66d9047df62841d55a473da696ab6d45d87e/Javascript/function.md)
 * [객체(object)](https://github.com/dmswnlee/TIL/blob/9cba77aaaf9d8a48958683357e642ccf25204cbd/Javascript/object.md)
 * [클래스(class)](https://github.com/dmswnlee/TIL/blob/eedeab6ef6185bcf2cea24d54bad986583b86f92/Javascript/class.md)
+* [빌트인객체(built-in-object)](https://github.com/dmswnlee/TIL/blob/e95558334cc68204446d2681c7fa5e953c68582d/Javascript/built-in-object.md)
