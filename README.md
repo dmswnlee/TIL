@@ -55,3 +55,4 @@ ___
 * [배열(array)](https://github.com/dmswnlee/TIL/blob/0acd5f6755e9a86a9c2cf769cc3983134a733346/Javascript/array.md)
 * [고차함수(Higher-Order function)](https://github.com/dmswnlee/TIL/blob/ef0a199477c65c460a3b2fe48c420aedb6e3c306/Javascript/hof.md)
 * [이터러블(Iterable)](https://github.com/dmswnlee/TIL/blob/9daaed4b55640886c5a88a437a4d0fd338e43516/Javascript/iterable.md)
+* [set과map...symbol](https://github.com/dmswnlee/TIL/blob/3120d3b2e265cd9a380b2331f35021be86c984a9/Javascript/set.md)
