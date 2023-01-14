@@ -1,4 +1,8 @@
 # 빌트인객체(built-in-object)
+📌[poiemaweb](https://poiemaweb.com/) , 모던자바스크립트(deep dive)
+
+<br>
+
 자바스크립트의 객체는 세가지로 분류된다.
 * 표준 빌트인 객체
     * 전역변수처럼 참조가능

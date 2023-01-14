@@ -1,4 +1,7 @@
 # 변수(variable)
+📌[poiemaweb](https://poiemaweb.com/) , 모던자바스크립트(deep dive)
+
+<br>
 
 ## 변수(variable)란?
 * 데이터값을 저장할 때 쓰이는 이름이 붙은 저장소

@@ -1,4 +1,8 @@
 # 고차함수(Higher-Order function , HOF)
+📌[poiemaweb](https://poiemaweb.com/) , 모던자바스크립트(deep dive)
+
+<br>
+
 함수를 인수로 전달 받거나(콜백함수) 함수를 반환하는 함수
 
 * 함수형 프로그래밍 기반

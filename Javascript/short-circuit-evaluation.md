@@ -1,4 +1,8 @@
 # 단축평가(short-circuit evaluation)
+📌[poiemaweb](https://poiemaweb.com/) , 모던자바스크립트(deep dive)
+
+<br>
+
 * 논리 연산자를 사용한 단축평가
 * 논리 연산의 결과를 결정하는 피연산자를 타입 변환하지 않고 그대로 반환
 * 표현식을 평가하는 도중에 평가결과가 확정된 경우 나머지 평가를 생략하는 것

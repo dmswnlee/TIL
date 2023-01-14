@@ -1,4 +1,8 @@
 # set 과 map ... symbol
+📌[poiemaweb](https://poiemaweb.com/) , 모던자바스크립트(deep dive)
+
+<br>
+
 ## Set
 * 중복되지 않는 유일한 값들의 집합체
 * 인덱스 ❌

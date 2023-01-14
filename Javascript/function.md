@@ -1,4 +1,7 @@
 # 함수(function)
+📌[poiemaweb](https://poiemaweb.com/) , 모던자바스크립트(deep dive)
+
+<br>
 
 ## 함수란?
 * 입력(input) 받고 출력(output)을 내보내는 것

@@ -1,4 +1,7 @@
 # 이터러블(Iterable)
+📌[poiemaweb](https://poiemaweb.com/) , 모던자바스크립트(deep dive)
+
+<br>
 
 ### 이터레이션 프로토콜
 * 순회 가능한 자료구조을 만들기 위해 ES6에 도입된 규칙
