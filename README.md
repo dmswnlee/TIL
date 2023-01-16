@@ -58,3 +58,4 @@ ___
 * [set과map...symbol](https://github.com/dmswnlee/TIL/blob/3b9f3c4e20421958e749981f96f6858b26793683/Javascript/set.md)
 * [단축평가(short-circuit evaluation)](https://github.com/dmswnlee/TIL/blob/3b9f3c4e20421958e749981f96f6858b26793683/Javascript/short-circuit-evaluation.md)
 * [비동기(async)](https://github.com/dmswnlee/TIL/blob/6c9f31176f5cf8e83a3b06a851b0f2686cd90fd7/Javascript/promise.md)
+* [스코프(scope)](https://github.com/dmswnlee/TIL/blob/7d3e5157658121c8d854b4c3483eb9a223b68ab5/Javascript/scope.md)
