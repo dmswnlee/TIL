@@ -17,6 +17,7 @@ ___
 * [웹 개발이란?](https://github.com/dmswnlee/TIL/blob/51de4bc5277a9c18ac79500d836126f88f3e5dc0/Web/web.md)
 * [브라우저 렌더링 과정](https://github.com/dmswnlee/TIL/blob/024ac6f11cb386f3ac920926906cb0f5193a7ceb/Web/rendering.md)
 * [DOM](https://github.com/dmswnlee/TIL/blob/55e07a0350b654bcfecce8f1a2f08531fb3f17ec/Web/DOM.md)
+* [event](https://github.com/dmswnlee/TIL/blob/a54c9ca636c1316a13322c2ab392e5947e5212fd/Web/event.md)
 
 <br />
 
