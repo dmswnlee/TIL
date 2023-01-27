@@ -15,6 +15,7 @@ ___
 
 ### web
 * [웹 개발이란?](https://github.com/dmswnlee/TIL/blob/51de4bc5277a9c18ac79500d836126f88f3e5dc0/Web/web.md)
+* [브라우저 렌더링 과정](https://github.com/dmswnlee/TIL/blob/024ac6f11cb386f3ac920926906cb0f5193a7ceb/Web/rendering.md)
 
 <br />
 
