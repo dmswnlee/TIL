@@ -15,11 +15,10 @@
 
 ||||||
 |:--:|:--:|:--:|:--:|:--:|
-|click|dbclick|mousedown|mouseup|
-|mousemove|mouseenter|mouseover|mouseleave|
-|mouseout|keydown|keyup|focus|
-|blur|submit|resize|scroll|
-||||||
+|click|dbclick|mousedown|mouseup
+|mousemove|mouseenter|mouseover|mouseleave
+|mouseout|keydown|keyup|focus
+|blur|submit|resize|scroll
 
 <br>
 
