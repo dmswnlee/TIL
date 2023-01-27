@@ -14,7 +14,7 @@
 - 이벤트 종류를 나타내는 문자열
 
 ||||||
-|:--:|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|:--:
 |click|dbclick|mousedown|mouseup
 |mousemove|mouseenter|mouseover|mouseleave
 |mouseout|keydown|keyup|focus
