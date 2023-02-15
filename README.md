@@ -69,4 +69,4 @@ ___
 
 ### git
 * [깃과버전관리](https://github.com/dmswnlee/TIL/blob/57d10ffd42da9280b0d00406475e69e974fb67cf/git/git.md)
-* [깃으로 버전관리 하기](https://github.com/dmswnlee/TIL/blob/5d342745402a55eececcae8a45f7187646d70e31/git/version.md)
+* [깃으로 버전관리 하기](https://github.com/dmswnlee/TIL/blob/174c26a3e154dfc6f486609971318128e7de27ba/git/version.md)
