@@ -70,6 +70,7 @@ ___
 ### React
 * [리액트란?](https://github.com/dmswnlee/TIL/blob/a7fcbfad2173621c67d97ae3a3cfb527f922cb3e/React/react.md)
 * [상태관리 - useState](https://github.com/dmswnlee/TIL/blob/c88d4e488615fc3e60c62fdad61ccf4e6be156e9/React/useState.md)
+* [DOM 요소 접근하기 - useRef](https://github.com/dmswnlee/TIL/blob/27851f7e2ba068a7cb35fda62e18ff7b096d1e0a/React/useRef.md)
 
 <br />
 
