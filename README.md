@@ -72,6 +72,7 @@ ___
 * [상태관리 - useState](https://github.com/dmswnlee/TIL/blob/c88d4e488615fc3e60c62fdad61ccf4e6be156e9/React/useState.md)
 * [DOM 요소 접근하기 - useRef](https://github.com/dmswnlee/TIL/blob/27851f7e2ba068a7cb35fda62e18ff7b096d1e0a/React/useRef.md)
 * [컴포넌트 생애주기 - useEffect](https://github.com/dmswnlee/TIL/blob/8406f09aa5b71360005349700a8fbcdbc8b67896/React/useEffect.md)
+* [컴포넌트 최적화 - useMemo, React.memo, useCallback](https://github.com/dmswnlee/TIL/blob/259628d6baab0b79d38cf218eca40fcada007713/React/usememo.md)
 
 <br />
 
